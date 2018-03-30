@@ -437,7 +437,9 @@ a.icon {
 .header-five {
   background: url('../images/header-five-bg.jpg') no-repeat;
 }
-
+.header-six {
+  background: url('../images/header-six-bg.jpg') no-repeat;
+}
 /* Portfolio section styles
 /* ========================================== */
 #portfolio {
